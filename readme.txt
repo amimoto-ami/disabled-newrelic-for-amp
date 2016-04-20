@@ -1,9 +1,9 @@
 === Disabled NewRelic For AMP ===
-Contributors: megumithemes,hideokamoto
+Contributors: megumithemes,wokamoto,hideokamoto
 Tags: newrelic,amp
 Requires at least: 4.4.2
 Tested up to:4.4.2
-Stable tag: 1.0.0
+Stable tag: 2.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,10 +21,13 @@ This is simple plugin disable NewRelic for AMP endpoint.
 
 == Changelog ==
 
+= 2.0.0 =
+* Change Hook
+
 = 1.0.0 =
 * Initialize Release
 
 == Upgrade Notice ==
 
-= 1.0.0 =
-* Initialize Release
+= 2.0.0 =
+* Change Hook
