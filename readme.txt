@@ -1,5 +1,5 @@
 === Disabled NewRelic For AMP ===
-Contributors: megumithemes,wokamoto,hideokamoto
+Contributors: amimotoami,megumithemes,wokamoto,hideokamoto
 Tags: newrelic,amp
 Requires at least: 4.4.2
 Tested up to:4.4.2
